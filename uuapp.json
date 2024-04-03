@@ -1,0 +1,17 @@
+{
+  "product": "uu_git_presentationg01",
+  "version": "0.1.0",
+  "license": "License Commercial",
+  "description": {
+    "en": "",
+    "cs": ""
+  },
+  "devkit": {
+    "development": {
+      "appBoxLocationUri": "----- VALUE REQUIRED -----",
+      "appDeploymentUri": null
+    }
+  },
+  "uu_git_presentationg01-hi": {},
+  "uu_git_presentationg01-server": {}
+}
